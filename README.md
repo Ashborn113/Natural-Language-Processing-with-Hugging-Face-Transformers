@@ -1,7 +1,8 @@
-#Natural Language Processing with Hugging Face Transformers\
-#Author : Svitlana Kramar
+# Natural Language Processing with Hugging Face Transformers
+Mentee assignment from IBM Advance AI Infinite Learning
+[Course Natural Language Processing with Hugging Face Transformers](https://apps.cognitiveclass.ai/learning/course/course-v1:IBM+GPXX0AIAEN+v1/home) from CognitiveClass.ai
 
-Course Completion of Natural Language Processing with Hugging Face Transformers\
-Nama : Muhammad Hadi Khairullah\
-Program : IBM Advance AI\
-Mentor : Ichsan Takwa
+## Info
+Name: Muhammad Hadi Khairullah\
+Program: IBM Advance AI\
+Personal Mentor : Ichsan Takwa
